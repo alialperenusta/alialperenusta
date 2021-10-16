@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ali.
 - 👀 I’m interested in data science.
-- 🌱 I’m currently learning MATLAB and R.
+- 🌱 I’m currently learning MATLAB and R and Python.
 - 📫 How to reach me.. alialperenusta@gmail.com
 
 <!---
